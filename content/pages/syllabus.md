@@ -57,11 +57,48 @@ Evaluation
 
 This class is a studio. Class requirements include extensive reading, active class participation, and involvement and contribution to the project. Your active participation and contribution to class discussions are worth 20% of your grade, attendance is worth 10%, and the remaining 70% of your grade will be based on your group project developing a master plan for a campus center or other type of community center for the North End of Springfield. In a nutshell:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attendance | 10% |
-| Active Participation and Contribution to Class Discussions | 20% |
-| Group Project | 70% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attendance
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Active Participation and Contribution to Class Discussions
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Group Project
+{{< tdclose >}}
+{{< tdopen >}}
+70%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Students' work will be evaluated informally on a weekly basis, and more formally through pin-ups every two or three weeks. During these more formal pin-ups, students will be given feedback on their efforts to process and integrate the information they have received and will be expected to reflect on how their work is related to their process of identity construction.
 
