@@ -7,6 +7,7 @@ image_metadata:
   caption: Campus Vision.
   credit: Image courtesy of the studio, and used with permission.
   image-alt: Campus Vision.
+parent_uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 resourcetype: Image
 title: vision.jpg
 uid: 07b9a67e-6410-9da1-f395-dc111f769d63

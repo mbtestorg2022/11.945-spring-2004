@@ -4,6 +4,7 @@ description: Chapter 3 of the final project report. Courtesy of Diana Bernal. Us
   with permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-945-springfield-studio-spring-2004/de2246f5c425cda0491d01dd9bd2d723_ch3.pdf
 file_type: application/pdf
+parent_uid: 19d6121f-501d-9847-05b0-65d67abae4df
 resourcetype: Document
 title: ch3.pdf
 uid: de2246f5-c425-cda0-491d-01dd9bd2d723

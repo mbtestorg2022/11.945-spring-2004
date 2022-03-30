@@ -7,6 +7,7 @@ image_metadata:
   caption: The Existing Condition.
   credit: Image courtesy of the studio, and used with permission.
   image-alt: The Existing Condition.
+parent_uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 resourcetype: Image
 title: existing.jpg
 uid: dd32fff7-bfbc-b5c4-c11b-62df9fa2f91e

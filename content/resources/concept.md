@@ -7,6 +7,7 @@ image_metadata:
   caption: The Concept Plan.
   credit: Image courtesy of the studio, and used with permission.
   image-alt: The Concept Plan.
+parent_uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 resourcetype: Image
 title: concept.jpg
 uid: 0ccf1b6b-f2c8-ecb6-e56a-e6348b06332e

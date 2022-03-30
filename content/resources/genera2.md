@@ -7,6 +7,7 @@ image_metadata:
   caption: Gerena Phase 2.
   credit: Image courtesy of the studio, and used with permission.
   image-alt: Gerena Phase 2.
+parent_uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 resourcetype: Image
 title: genera2.jpg
 uid: 05e269ba-ce40-3097-1945-1e637938eef5

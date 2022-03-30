@@ -7,6 +7,7 @@ image_metadata:
   caption: Chestnut Phase 2.
   credit: Image courtesy of the studio, and used with permission.
   image-alt: Chestnut Phase 2.
+parent_uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 resourcetype: Image
 title: chestnut3.jpg
 uid: b2fe170a-b666-6fcc-73be-22f5dc321e61

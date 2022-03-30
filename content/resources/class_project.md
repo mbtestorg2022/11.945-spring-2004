@@ -13,6 +13,7 @@ description: 'The class project will consist of a three-stage process: inventory
   respond to assigned reflective exercises in this book.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/11-945-springfield-studio-spring-2004/10258308cdf26e9b55457daf463f2000_class_project.pdf
 file_type: application/pdf
+parent_uid: 19d6121f-501d-9847-05b0-65d67abae4df
 resourcetype: Document
 title: class_project.pdf
 uid: 10258308-cdf2-6e9b-5545-7daf463f2000

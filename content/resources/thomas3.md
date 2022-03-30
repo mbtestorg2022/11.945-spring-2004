@@ -7,6 +7,7 @@ image_metadata:
   caption: Thomas Phase 3.
   credit: Image courtesy of the studio, and used with permission.
   image-alt: Thomas Phase 3.
+parent_uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 resourcetype: Image
 title: thomas3.jpg
 uid: 0206e5b0-ca9a-f0aa-acf0-8c44076283a9
